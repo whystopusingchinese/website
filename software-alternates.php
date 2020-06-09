@@ -39,12 +39,11 @@ include 'template-parts/header.php'; ?>
 </div>
 
 <div class="alert-warning alert text-center">
-	There are ton's of Chiense App. and we are constantly working on to improve our apps list and to provide
-	best alternative options.
+	We are constantly working to improve the below list of alternates, but there are tons of Chinese Apps, and it is not
+	possible for us to find every single one of them.
 	<br/>
-	if you find any apps that are missed or want to add some alternative app. please <a
-			href="https://github.com/whystopusingchinese/website/issues">submitt request
-		here </a>
+	If you find any Chinese apps that we've missed, or want to add some alternates, please submit a request <a
+			href="https://github.com/whystopusingchinese/website/issues"> here.</a>
 </div>
 <table class="table table-bordered text-left table-danger ">
 	<tbody>
