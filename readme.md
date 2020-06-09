@@ -11,10 +11,10 @@ uninstall Chinese apps and remove Chinese products from my life in 1 year.
 
 https://whystopusingchinese.com/ 
 
-#BeIndianBuyIndian 
-#BoycottChinese
-#BoycottChina 
-#BoycottChineseProducts 
-#ByeByeIndiaOnlyBharat 
-#BoycottChineseApp 
-#whystopusingchinese
+* #BeIndianBuyIndian 
+* #BoycottChinese
+* #BoycottChina 
+* #BoycottChineseProducts 
+* #ByeByeIndiaOnlyBharat 
+* #BoycottChineseApp 
+* #whystopusingchinese
