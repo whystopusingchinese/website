@@ -1,4 +1,4 @@
-# Why Stop Using Chiense ?
+# Why Stop Using Chinese ?
 As an Indian, 
 
 Launched whystopusingchinese.com to educate about importantce of buying Indian, and show how Chinese goods are damaging 
