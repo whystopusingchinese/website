@@ -31,6 +31,20 @@ $now = new \DateTime( 'now', new DateTimeZone( 'Asia/Kolkata' ) );
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63845590-4"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push( arguments );
+	}
+
+	gtag( 'js', new Date() );
+
+	gtag( 'config', 'UA-63845590-4' );
+</script>
+
 <!--  Triggered By Github SHA : <?php echo ( isset( $github_sha ) && ! empty( $github_sha ) ) ? $github_sha : ''; ?> -->
 </body>
 </html>
